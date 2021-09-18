@@ -1,0 +1,15 @@
+#board{
+    background-color: lightblue;
+}
+.col{
+    background-color: pink;
+}
+.done{
+    opacity: 0;
+    transition:all 1s ease-in-out ;
+}
+#congrats{
+    display: none;
+    font-size: 50px;
+    padding: 30px;
+}
